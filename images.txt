@@ -1,2 +1,2 @@
 nginx:latest
-n8n:2.7.3
+n8nio/n8n:2.7.3

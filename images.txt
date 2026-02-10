@@ -1,1 +1,2 @@
 nginx:latest
+n8n:2.7.3

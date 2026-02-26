@@ -1,1 +1,1 @@
-mariadb:10.6.8-debian-10-r0
+bitnami/mariadb:10.6.8-debian-10-r0

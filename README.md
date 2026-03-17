@@ -73,7 +73,6 @@ xhofe/alist
 xiaoyaliu/alist
 ```
 ![](doc/镜像重名.png)
-
 ### 定时执行
 修改/.github/workflows/docker.yaml文件
 添加 schedule即可定时执行(此处cron使用UTC时区)

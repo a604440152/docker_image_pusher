@@ -1,1 +1,2 @@
 docker.io/bitnami/mariadb:10.6.8-debian-10-r0
+node:20.20.1-bullseye-slim 

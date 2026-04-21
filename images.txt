@@ -1,1 +1,1 @@
-grafana/grafana-enterprise
+grafana/grafana-enterprise:11.5.5

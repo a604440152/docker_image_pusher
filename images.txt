@@ -1,1 +1,2 @@
-node:22.14.0-alpine
+bitnami/redis-exporter:1.43.0-debian-11-r4
+bitnami/redis:6.2.7-debian-11-r11

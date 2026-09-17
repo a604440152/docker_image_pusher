@@ -1,1 +1,1 @@
-timonwong/prometheus-webhook-dingtalk:v2.2.0
+prometheus-webhook-dingtalk:v2.2.0

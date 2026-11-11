@@ -1,1 +1,1 @@
-prometheus-webhook-dingtalk:v2.2.0
+filebeat:9.5.1
